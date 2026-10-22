@@ -5,7 +5,7 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 ## Dupla (ou trio)
 
 -Yan Lucas Lima da Silva
-*
+-Thiago Cardoso Costa
 
 ## Como contribuir
 
